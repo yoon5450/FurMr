@@ -13,7 +13,7 @@ Quest3의 Depth Sensor와 depth 관련 api를 이용해 실제 사물과 depth�
 - 호스팅중인 컴퓨터의 화면 미러링 오브젝트
 - 논문 작성
 
-졸업논문 링크:(https://drive.google.com/file/d/1oTOQjSn42scBLCr2PQkxDezpqNEGNYjV/view?usp=drive_link)
+졸업논문 링크:(https://drive.google.com/file/d/1oTOQjSn42scBLCr2PQkxDezpqNEGNYjV/view?usp=sharing)
 
 논문 요약
 
